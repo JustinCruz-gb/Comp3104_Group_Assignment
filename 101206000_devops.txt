@@ -1,0 +1,7 @@
+The devops course under the computer programming analyst program(T127)
+
+The course is ran from September 8 to December 18(2020)
+
+The course(and in a 15 week period), is graded in 8 lecture quizzes, 8 lab exercises,
+2 assignments(1 group and 1 individual), a mid term exam and a final exam.
+
