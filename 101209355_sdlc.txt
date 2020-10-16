@@ -1,1 +1,2 @@
 DevOps are very important in the software development lifecycle.
+What do you get when you combine software DEVelopment with IT OPerationS? DevOps.
