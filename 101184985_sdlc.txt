@@ -1,1 +1,1 @@
-The software development lifecycle is a framework that defines tasks preformed at various stages in the development lifecycle
+The software development lifecycle is a framework that defines tasks preformed at various stages in the development lifecycle.  The 7 stages are planning, defining requirements, designing and prototyping, software development, testing, deployment and operations and maintenance.
