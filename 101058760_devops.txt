@@ -1,1 +1,4 @@
 COMP3104 Devops is looking at "a cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly changing resilient systems at scale." - Jez Humble
+
+Our course has ten quizes (best eight out of ten), two lab exercises (best eight out of ten), two assignments, a midterm, and a final exam.  
+There is one class every week.  Each class is three hours long.
