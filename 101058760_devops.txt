@@ -2,3 +2,6 @@ COMP3104 Devops is looking at "a cross-disciplinary community of practice dedica
 
 Our course has ten quizes (best eight out of ten), two lab exercises (best eight out of ten), two assignments, a midterm, and a final exam.  
 There is one class every week.  Each class is three hours long.
+
+Some of the topics we learned in this course so far are Git commands and how to use github.  
+Single paged applications as well.  
