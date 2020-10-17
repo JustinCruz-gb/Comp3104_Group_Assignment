@@ -1,0 +1,2 @@
+The COMP 3104 DevOps class is teaching me Github.
+The COMP 3104 DevOps class is teaching me Git commands.
