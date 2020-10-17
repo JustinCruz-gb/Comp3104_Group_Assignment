@@ -1,10 +1,11 @@
 # Comp3104_Group_Assignment
 A group assignment for COMP 3104
 
-101209355 branch created by Dayton Stephens 
+101206000 branch completed and merged by Justin Cruz - 101206000
 
-Added 101209355_gb.txt to 101209355 branch
+101058760 branch completed and merged by Joseph Roman - 101058760
 
-Added 101209355_devops.txt to 101209355 branch
+101184985 branch completed and merged by Ben Jenkyns - 101184985
 
-Added 101209355_sdlc.txt to 101209355 branch
+101209355 branch completed and merged by Dayton Stephens - 101209355
+
