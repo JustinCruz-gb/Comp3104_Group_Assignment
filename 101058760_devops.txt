@@ -5,3 +5,6 @@ There is one class every week.  Each class is three hours long.
 
 Some of the topics we learned in this course so far are Git commands and how to use github.  
 Single paged applications as well.  
+
+The second half of the course will look at working with cloud infrastructure, automating devops & quality assurance,
+devops assembly lines, commonly used devops tech exposed, and transitioning into the role of devops.
