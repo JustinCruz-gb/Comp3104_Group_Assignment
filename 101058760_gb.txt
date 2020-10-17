@@ -4,3 +4,6 @@ There are three campuses in Toronto.  Casa Loma Campus, St. James Campus, and Wa
 
 The college was first opened in 1968.  
 It was named after George Brown who was born in 1818 and passed away in 1880. 
+
+Some of the programs that George Brown College offers are computer systems technician, blockchain development, game programming, graphic design,
+social service worker, etc.
