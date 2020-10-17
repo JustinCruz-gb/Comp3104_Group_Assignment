@@ -3,5 +3,8 @@ Devops is important to learn because it allows businesses to deliver application
 Devops has a set of processes that can drastically reduce IT overhead, enforce the best security practices, and remove manual tasks.
 Moreover, improves communication across teams.
 
+Due to shorter development cycles devops promotes frequent code versions.  
+This makes it easy to find problems in the code.
+
 
 
